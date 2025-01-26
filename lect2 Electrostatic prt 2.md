@@ -88,18 +88,29 @@ $$
 \vec{F} = \frac{K q_1 q_2}{r^2}
 $$
 
-Assume two charges are separaed by a distance r and the charges have charge $q_1$ and $q_2$ in them.
+Assume two charges are separated by a distance \( r \), and the charges have magnitudes \( q_1 \) and \( q_2 \).
 
-The magintude of the force exeretd by each charge on to the other is represented by Coulomb's Law<br>
-$\Rightarrow \vec{F} = \frac{K q_1 q_2}{r^2}$
-$\Rightarrow K$ is constant $\Rightarrow k = \frac{1}{4\pi\xi_0}$
-$\Rightarrow \xi_0$ is called the **Permitivity Constant**
-$K$ is called Coulomb constant
-# !!! I AM NOT SURE IF THE FORMULA BELOW IS CORRECT!!!
-$\Rightarrow \xi_0 = 8.85 \times 10^{-12} \frac{c}{Nm^2}$
-$\Rightarrow K=\frac{1}{4\pi\xi_0}=8.99 \times 10^9 \frac{Nm^2}{c}$
+The magnitude of the force exerted by each charge on the other is given by Coulomb's Law:  
+\[
+\vec{F} = \frac{K q_1 q_2}{r^2}
+\]  
+where \( K \) is the Coulomb constant, defined as:  
+\[
+K = \frac{1}{4 \pi \epsilon_0}
+\]  
+Here, \( \epsilon_0 \) is the **permittivity of free space** (also called the permittivity constant). Its value is approximately:  
+\[
+\epsilon_0 = 8.85 \times 10^{-12} \, \frac{\mathrm{C}^2}{\mathrm{N} \, \mathrm{m}^2}
+\]  
+Substituting \( \epsilon_0 \) into the expression for \( K \), we get:  
+\[
+K = \frac{1}{4 \pi \epsilon_0} = 8.99 \times 10^9 \, \frac{\mathrm{N} \, \mathrm{m}^2}{\mathrm{C}^2}
+\]  
 
-$\vec{F} = \frac{kq_1q_2}{r^2}$
+Thus, Coulomb's law can also be written as:  
+\[
+\vec{F} = \frac{K q_1 q_2}{r^2}
+\]
 
 ## Direction of $\vec{F}$
 
