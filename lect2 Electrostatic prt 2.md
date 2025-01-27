@@ -252,7 +252,7 @@ $Q$ is producing the E field
 
 At point $p$ what is the eletric field
 At opintt $p$ the $\vec{E}$ field vectors use to each individual charge follow the law of super position.
-$$E_{net}=\sum{E_i}=E_1+E_2+E_3 =\begin{cases}E_{net_x} = \sum E_{i_x}\\E_{net_y} = \sum E_{i_y}\end{cases}$$
+$$E_{net}=\sum{E_i}=E_1+E_2+E_3=\begin{cases}E_{net_x}=\sum{E_{i_x}}\\E_{net_y}=\sum{E_{i_y}}\end{cases}$$
 **Tip**: ALWAYS break up to the components of x y when solving for eletric field
 
 ### Eletrci Field dute to a Dipole
