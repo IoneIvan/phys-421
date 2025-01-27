@@ -230,7 +230,7 @@ $Q < 0$, E radiates inward
 $r$ is the distance away from the cahrged particles
 $E$ is electric field strength at position $r$
 
-**Note**: $\vec{F} = q_9E=K\frac{Qq_0}{r^2}\hat{r}$
+**Note**: $E=K\frac{Qq_0}{r^2}\hat{r}$
 $Q$ is not influenced by $q_0$
 
 Units of $E===[\frac{N}{C}]$
@@ -252,11 +252,7 @@ $Q$ is producing the E field
 
 At point $p$ what is the eletric field
 At opintt $p$ the $\vec{E}$ field vectors use to each individual charge follow the law of super position.
-$$E_{net}=\sum{E_i}=E_1+E_2+E_3 =
-\begin{cases}
-    E_{net_x} = \sum E_{i_x}\\
-    E_{net_y} = \sum E_{i_y}
-\end{cases}$$
+$$E_{net}=\sum{E_i}=E_1+E_2+E_3 =\begin{cases}E_{net_x} = \sum E_{i_x}\\E_{net_y} = \sum E_{i_y}\end{cases}$$
 **Tip**: ALWAYS break up to the components of x y when solving for eletric field
 
 ### Eletrci Field dute to a Dipole
