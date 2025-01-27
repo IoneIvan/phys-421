@@ -84,30 +84,27 @@ $$K = \frac{1}{4 \pi \epsilon_0} = 8.99 \times 10^9 \, \frac{\mathrm{N} \, \math
 $$  
 
 Thus, Coulomb's law can also be written as:  
-$$
-\vec{F} = \frac{K q_1 q_2}{r^2}
-$$
+
+$$\vec{F} = \frac{Kq_1q_2}{r^2}$$
 
 
 ## Direction of $\vec{F}$
 
 ![pic3 Two poositive particles](./images/lect2/pic3.png)
-//umm..
-$q_1$ & $q_2 > 0 \Rightarrow $
+
+$q_1$ & $q_2 > 0 \Rightarrow $ ...
 
 To show force of particle one onto particle two we show $F_{12}$
 
-$$ 
-F_{12} = K\frac{q_1q_2}{r^2} \space\space\space
-F_{21} = K\frac{q_2q_1}{r^2}
-$$
+$$F_{12} = K\frac{q_1q_2}{r^2} \,\,\,\,
+F_{21} = K\frac{q_2q_1}{r^2}$$
 Both forces have the same maginture.
 
 $+\hat{r}$ is the direction going away from some center point (usually COM)
 $-\hat{r}$ is the direction going toward some center point (usually COM)
 
 For our example we have
-$F_{12} = F_{21} = k\frac{q_2q_1}{r^2} > 0$
+$F_{12} = F_{21} = K\frac{q_2q_1}{r^2} > 0$
 
 Both forces for $q_1$ and $q_2 > 0$
 will be in the $+\hat{r}$ direction.
@@ -126,7 +123,7 @@ $\Rightarrow F_C = K\frac{q_1q_2}{r^2}\hat{r}$
 ![pic4 Comparing gravity and columb forces](./images/lect2/pic4.png)
 
 
-Gravitation is always attractiev where as coulomb is attractive /repulsion.
+Gravitation is always attractiev where as coulomb is attractive or repulsion.
 
 ### 2 Elementary Charge
 Charge is descreete
@@ -139,16 +136,16 @@ Neutrons are neutral so all charge in an atom is held in a proton and electron.
 
 Neutral hydrogen has one proton and one electron. Neutral $\Rightarrow$ net neutral charge, whic hmeans $|q_{proton}| = |q_{electron}|$
 
-Net Neutral $= Q_{net} = 0$
-$\Rightarrow Q_{net} = q_{electron} + q_{proton} = 0$
-$\Rightarrow q_{electron} < 0$ or $q_{proton} > 0$
-$\Rightarrow Q_{net} = -|q_{electron}| + |q_{proton}| = 0$
-$\Rightarrow |q_{electron}| = |q_{proton}|$
+Net Neutral $= Q_{net} = 0$ <br>
+$\Rightarrow Q_{net} = q_{electron} + q_{proton} = 0$<br>
+$\Rightarrow q_{electron} < 0$ OR $q_{proton} > 0$<br>
+$\Rightarrow Q_{net} = -|q_{electron}| + |q_{proton}| = 0$<br>
+$\Rightarrow |q_{electron}| = |q_{proton}|$<br>
 
 
-Charge of an electron $q_{electron} = -1.602 \times 10^{-19}C$
+Charge of an electron $q_{electron} = -1.602 \times 10^{-19}C$<br>
 
-**Note**: Elementary charge: $e = 1.602 \times 10^{-19}C$
+**Note**: Elementary charge: $e = 1.602 \times 10^{-19}C$<br>
 
 > You can't get fraction of elementray charge
 
@@ -164,7 +161,7 @@ Values of charge are discreet.
 >A: no, even other particles like pe still is based on elemetray charge.
 
  
-exercise 
+**Exercise** 
 ![pic5a Solved problem on board](./images/lect2/pic5a.png)
 ![pic5b Solved problem on board](./images/lect2/pic5b.png)
 
@@ -173,7 +170,7 @@ exercise
 ## 3 Electric Field
 Forces are exerted from one objecct to another through some phsisical contact, but the coulomb force acts on particles without physical touch.
 
-We model a "force field" that carries the influence of the force. This force field doesn't not require physical touch.Instead the field is emitted (radiates) from a source carrying a force which then interacts with objects inside the field.
+We model a **"force field"** that carries the influence of the force. This force field doesn't not require physical touch. Instead the field is emitted (radiates) from a source carrying a force which then interacts with objects inside the field.
 
 The eletric field $\vec{E}$ (it is a vector)
 The **E feild** (electic field) is modeleted with rays or field lines that point toward or awafrom the source.
@@ -185,7 +182,7 @@ E field carries electrostatic force
 
 #### Direction of **E** field (for charge particles)
 
-To determine the direction of **E field** we must use a *test charge* (q not $q_0$)
+To determine the direction of **E field** we must use a *test charge* ($q$ not $q_0$)
 $q_{not}$ is theoretical charge of known value.
 Typically $q_{not}$ has vary low charge as to high influence by other nearby charges, but cannot influence them back.
 
@@ -222,12 +219,10 @@ $\Rightarrow \vec{F} = q_0\vec{E}$
 $\Rightarrow \vec{E} = \frac{\vec{F}}{q_0}$
 
 
-$q_0 is test cahrge$
-$F = k\frac{q_1q_2}{r^2} = k\frac{Qq_0}{r^2}$
-$\Rightarrow E = \frac{F}{q_0} = k\frac{Q}{r^2}$
-$$
-    \Rightarrow E = \frac{kQ}{r^2}\hat{r} 
-$$ 
+$q_0$ is test cahrge
+$F = K\frac{q_1q_2}{r^2} = K\frac{Qq_0}{r^2}$
+$\Rightarrow E = \frac{F}{q_0} = K\frac{Q}{r^2}$
+$$\Rightarrow E = \frac{KQ}{r^2}\hat{r}$$ 
 So we get eletric Field emited by charged particle
 
 $Q > 0$, E radiates outward
@@ -235,7 +230,7 @@ $Q < 0$, E radiates inward
 $r$ is the distance away from the cahrged particles
 $E$ is electric field strength at position $r$
 
-**Note**: $\vec{F} = q_9E=k\frac{Qq_0}{r^2}\hat{r}$
+**Note**: $\vec{F} = q_9E=K\frac{Qq_0}{r^2}\hat{r}$
 $Q$ is not influenced by $q_0$
 
 Units of $E===[\frac{N}{C}]$
@@ -248,7 +243,7 @@ Most real systems do not just have one particle. There are many.
 
 > What is the **E field** for a system of particles?
 
-$\vec{E} = \frac{kQ}{r^2}\hat{r}$
+$\vec{E} = \frac{KQ}{r^2}\hat{r}$
 
 $Q$ is the main charge
 $Q$ is producing the E field
@@ -257,13 +252,11 @@ $Q$ is producing the E field
 
 At point $p$ what is the eletric field
 At opintt $p$ the $\vec{E}$ field vectors use to each individual charge follow the law of super position.
-$$
-E_{net}=\sum{E_i}=E_1+E_2+E_3 =
+$$E_{net}=\sum{E_i}=E_1+E_2+E_3 =
 \begin{cases}
     E_{net_x} = \sum E_{i_x}\\
     E_{net_y} = \sum E_{i_y}
-\end{cases}
-$$
+\end{cases}$$
 **Tip**: ALWAYS break up to the components of x y when solving for eletric field
 
 ### Eletrci Field dute to a Dipole
@@ -293,3 +286,28 @@ To solve this youw would need *Binomial Expansion*
 $(1+x)^n = a + nx + \frac{n(n-1)}{2!} ...$
 $-1 < x < 1$
 
+
+## Take out
+### Constants
+#### $K$ - Coulomb constant
+$K = \frac{1}{4 \pi \epsilon_0} = 8.99 \times 10^9 \, \frac{\mathrm{N} \, \mathrm{m}^2}{\mathrm{C}^2}$
+
+#### $\epsilon_0$ is the ***permittivity of free space*** OR ***permittivity constant***
+$\epsilon_0 = 8.85 \times 10^{-12} \, \frac{\mathrm{C}^2}{\mathrm{N} \, \mathrm{m}^2}$  
+
+#### Elementary charge ($\mathrm{e}$) 
+Elementary charge: $\mathrm{e} = 1.602 \times 10^{-19}\mathrm{C}$
+### Coulomb's law
+$\vec{F} = \frac{K q_1 q_2}{r^2}\hat{r}$<br>
+$\vec{E} = \frac{KQ}{r^2}\hat{r}$
+
+$\vec{F}$ and $\vec{E}$ are similar and point in the some direction.
+$\vec{F}$ and $\vec{E}$ only differ by a factor of $q_0$
+
+### Directions
+$+\hat{r}$ is the direction going away from some center point (usually COM)
+$-\hat{r}$ is the direction going toward some center point (usually COM)
+
+### Vocabulary
+- Electric Field (**E** field) radiates from a charged particles.
+- $q_{not}$ has vary low charge as to high influence by other nearby charges, but cannot influence them back.
